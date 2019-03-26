@@ -17,9 +17,9 @@ See [Graphics Interface](/js)
 
 ## Binder 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-packages/francy/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/LaGuer/francy/master)
 <!--- TODO: uncomment - there is a bug that prevents Francy from build on jupyter lab --->
-<!--- [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gap-packages/francy/master?urlpath=lab) --->
+<!--- [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/LaGuer/francy/master?urlpath=lab) --->
 
 This binder includes the following notebooks:
 
